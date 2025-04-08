@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "PrNUH+TIOXp6wcWxIWwLLpIaUSs6xXFLnhkWHL/ZqwQ=",
+  "Source": "examples.Server",
+  "BasePath": "_content/examples.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.client\\examples.client.esproj",
+      "Version": 2,
+      "Source": "examples.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

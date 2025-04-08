@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hi\\Desktop\\core api\\examples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\controllers\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\controllers\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|c:\\users\\hi\\desktop\\core api\\examples\\examples.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52B97AF3-D4E4-4147-9FD0-BFF53DEDB798}|examples.Server\\examples.Server.csproj|solutionrelative:examples.server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\product.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Controllers\\product.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\product.cs",
+              "RelativeToolTip": "examples.Server\\Controllers\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:01:47.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\category.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Controllers\\category.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\category.cs*",
+              "RelativeToolTip": "examples.Server\\Controllers\\category.cs*",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:01:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\Home.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Controllers\\Home.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Controllers\\Home.cs",
+              "RelativeToolTip": "examples.Server\\Controllers\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T13:00:39.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Models\\Category.cs",
+              "RelativeToolTip": "examples.Server\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:43:23.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "examples.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\appsettings.json",
+              "RelativeToolTip": "examples.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T08:41:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Program.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Program.cs",
+              "RelativeToolTip": "examples.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:40:16.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "examples.Server\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "examples.Server\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T08:39:24.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
