@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:49779",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\..\\examples.client",
+"WorkingDirectory": "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\..\\examples.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

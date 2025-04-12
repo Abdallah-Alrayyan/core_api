@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\examples.Server.csproj": {}
+    "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\examples.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\examples.Server.csproj": {
+    "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\examples.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\examples.Server.csproj",
+        "projectUniqueName": "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\examples.Server.csproj",
         "projectName": "examples.Server",
-        "projectPath": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\examples.Server.csproj",
+        "projectPath": "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\examples.Server.csproj",
         "packagesPath": "C:\\Users\\hi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.Server\\obj\\",
+        "outputPath": "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

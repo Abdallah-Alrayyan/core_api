@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "PrNUH+TIOXp6wcWxIWwLLpIaUSs6xXFLnhkWHL/ZqwQ=",
+  "Hash": "a18CNRrpP395ORa0O4Uye85xCXow28D0sucmvLzqaVg=",
   "Source": "examples.Server",
   "BasePath": "_content/examples.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\hi\\Desktop\\core api\\examples\\examples.client\\examples.client.esproj",
+      "Identity": "C:\\Users\\hi\\Desktop\\core api\\core_api\\examples\\examples.client\\examples.client.esproj",
       "Version": 2,
       "Source": "examples.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

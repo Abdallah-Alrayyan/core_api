@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:55061",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\hi\\Desktop\\core api\\core_api\\Day2\\Day2.Server\\..\\day2.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

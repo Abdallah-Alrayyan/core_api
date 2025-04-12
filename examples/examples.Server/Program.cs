@@ -1,3 +1,5 @@
+using examples.Server.DataService;
+using examples.Server.IDataService;
 using examples.Server.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -14,7 +16,30 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IDataServicescs, DataService>();
+
+//CORS
+builder.Services.AddCors(
+
+    options => options.AddPolicy(
+        "Develop", options =>
+        {
+            options.AllowAnyHeader();
+            options.AllowAnyMethod();
+            options.AllowAnyOrigin();
+        }
+
+        )
+   );
+
 var app = builder.Build();
+
+
+
+
+
+
+
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
